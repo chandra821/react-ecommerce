@@ -1,0 +1,38 @@
+.nav-menu {
+  display: flex;
+  padding: 1rem;
+
+  a {
+    text-decoration: none;
+    &:focus,
+    &:hover,
+    &:visited {
+      color: black;
+    }
+  }
+  .logo {
+    font-size: 1.5rem;
+
+    .chandu {
+      width: 140px;
+      height: 40px;
+      border-radius: 20px;
+    }
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    // margin-left: auto;
+
+    li {
+      display: inline-block;
+      margin: 0 1rem; ///////
+      cursor: pointer;
+    }
+  }
+  li {
+    list-style-type: none;
+    margin: 10px;
+    // margin-left: auto;
+  }
+}

@@ -1,0 +1,16 @@
+/* addedToBagMessage.css */
+.added-to-bag-message {
+    width: 200px;
+    height: 50px;
+    position: fixed;
+    top: 20%;
+    right: 10%;
+    background-color: #fff;
+    /* padding: 10px; */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  imag1{
+    width: 20px;
+    height: 20px;
+  }
+  

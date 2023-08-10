@@ -1,0 +1,30 @@
+.button{
+    margin-bottom: 1px ;
+    border-radius: 10px;
+    width: 270px;
+    /* background-color: yellow ; */
+}
+.button:hover {
+    background-color: red;
+    /* color: white; */
+}
+.button .link{
+    text-decoration: none;
+    color: black;
+}
+.button:hover .link{
+    color: white;
+}
+.input2{
+    width: 200px;
+    margin: 5px;
+}
+.btns{
+    
+    width: 200px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    margin-left: 10px;
+}
